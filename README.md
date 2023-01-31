@@ -6,13 +6,13 @@
   this project is a daily workday scheduler designed to keep track of meetings during the standard working hours.
 
   ## Table of Contents
-  * [Description] (#description)
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [Licence] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#testing)
-  * [Questions] (#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Licence](#license)
+  * [Contributing](#contributing)
+  * [Tests](#testing)
+  * [Questions](#questions)
 
   ## Description
   this project is a daily workday scheduler designed to keep track of meetings during the standard working hours.
