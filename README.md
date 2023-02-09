@@ -1,6 +1,6 @@
 # Workday Scheduler
 
-  ![Github licence](http://img.shields.io/badge/license-None-blue.svg)
+  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
   this project is a daily workday scheduler designed to keep track of meetings during the standard working hours.
@@ -24,7 +24,8 @@
   The application should be used to schedule timings and appointmemts during working hours and days. You can click on each hours text area to input information and click the 'save' button to save this to your schedule. 
 
   ## License
-  This project uses the following license None
+  This project uses the following license MIT
+  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Contributing
   N/A
@@ -35,5 +36,5 @@
   ## Questions
   For questions about this application please reach out to me using one of the following methods:
 
-  GitHub: Sarah-El
+  GitHub: [https://github.com/sarah-el](https://github.com/sarah-el)
   Email: sarahlosbourne@gmail.com
